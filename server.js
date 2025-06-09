@@ -13,7 +13,7 @@ const corsOptions = {
 
 server.use(cors(corsOptions)); // Enable CORS with specific origin
 server.use(middlewares);
-server.use('/cities', router); // Serve db.json data under /cities
+server.use('/', router);
 
 const PORT = process.env.PORT || 10000;
 server.listen(PORT, () => {
