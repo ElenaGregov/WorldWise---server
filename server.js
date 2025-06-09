@@ -2,20 +2,18 @@ import jsonServer from 'json-server';
 import cors from 'cors';
 
 const server = jsonServer.create();
-const router = jsonServer.router('db.json');
+const router = jsonServer.router('db.json'); // db.json is in same folder
 const middlewares = jsonServer.defaults();
 
-// ✅ Allow only your Netlify domain
-const corsOptions = {
-  origin: 'https://worldwise-eg.netlify.app',
-  optionsSuccessStatus: 200
-};
+server.use(cors({
+  origin: 'https://worldwise-eg.netlify.app', // your frontend URL here
+  optionsSuccessStatus: 200,
+}));
 
-server.use(cors(corsOptions)); // Enable CORS with specific origin
 server.use(middlewares);
-server.use('/', router);
+server.use('/', router); // Serve db.json at root
 
 const PORT = process.env.PORT || 10000;
 server.listen(PORT, () => {
-  console.log(`JSON Server is running on port ${PORT}`);
+  console.log(`JSON Server running on port ${PORT}`);
 });
