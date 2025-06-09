@@ -35,6 +35,186 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "id": "d635",
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2025-05-15T11:27:47.412Z",
+      "notes": "",
+      "position": {
+        "lat": "50.085344397538876",
+        "lng": "14.488220214843752"
+      }
+    },
+    {
+      "id": "97a9",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-05-15T11:33:45.006Z",
+      "notes": "",
+      "position": {
+        "lat": "55.71782880151228",
+        "lng": "37.62817382812501"
+      }
+    },
+    {
+      "id": "94e5",
+      "cityName": "Chelyabinsk",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-05-15T11:34:05.469Z",
+      "notes": "",
+      "position": {
+        "lat": "55.156904807126104",
+        "lng": "61.46301269531251"
+      }
+    },
+    {
+      "id": "ca53",
+      "cityName": "Antalya",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-05-15T11:34:19.348Z",
+      "notes": "",
+      "position": {
+        "lat": "36.89280138293986",
+        "lng": "30.772705078125"
+      }
+    },
+    {
+      "id": "d29b",
+      "cityName": "Alanya",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-05-15T11:34:41.196Z",
+      "notes": "",
+      "position": {
+        "lat": "36.54053616262899",
+        "lng": "32.05261230468751"
+      }
+    },
+    {
+      "id": "5ff9",
+      "cityName": "Thessaloniki",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-05-15T11:35:01.340Z",
+      "notes": "",
+      "position": {
+        "lat": "40.63896734381725",
+        "lng": "22.93876647949219"
+      }
+    },
+    {
+      "id": "01c7",
+      "cityName": "Nei Pori",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-05-15T11:36:45.860Z",
+      "notes": "",
+      "position": {
+        "lat": "39.97758050192535",
+        "lng": "22.649989128112797"
+      }
+    },
+    {
+      "id": "8b86",
+      "cityName": "Zadar",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2025-05-15T11:37:23.796Z",
+      "notes": "",
+      "position": {
+        "lat": "44.109281923355645",
+        "lng": "15.246276855468752"
+      }
+    },
+    {
+      "id": "816a",
+      "cityName": "Split",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2025-05-15T11:37:51.156Z",
+      "notes": "",
+      "position": {
+        "lat": "43.51668853502909",
+        "lng": "16.487731933593754"
+      }
+    },
+    {
+      "id": "99cd",
+      "cityName": "Washington",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-05-15T11:38:32.699Z",
+      "notes": "",
+      "position": {
+        "lat": "38.82259097617713",
+        "lng": "-77.08007812500001"
+      }
+    },
+    {
+      "id": "5b47",
+      "cityName": "New York City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-05-15T11:39:44.163Z",
+      "notes": "",
+      "position": {
+        "lat": "40.724364221722716",
+        "lng": "-73.95446777343751"
+      }
+    },
+    {
+      "id": "5c38",
+      "cityName": "Norfolk",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-05-15T11:40:11.011Z",
+      "notes": "",
+      "position": {
+        "lat": "36.856548768788954",
+        "lng": "-76.25473022460939"
+      }
+    },
+    {
+      "id": "2128",
+      "cityName": "Shanghai",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-05-15T11:40:48.923Z",
+      "notes": "",
+      "position": {
+        "lat": "33.22030778968541",
+        "lng": "120.60241699218751"
+      }
+    },
+    {
+      "id": "33db",
+      "cityName": "Saint Petersburg",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-05-15T11:46:35.284Z",
+      "notes": "",
+      "position": {
+        "lat": "59.84481485969108",
+        "lng": "30.410156250000004"
+      }
+    },
+    {
+      "id": "d30e",
+      "cityName": "Zell am See",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2025-05-15T12:07:41.270Z",
+      "notes": "",
+      "position": {
+        "lat": "47.32579231609051",
+        "lng": "12.818298339843752"
+      }
     }
   ]
 }
